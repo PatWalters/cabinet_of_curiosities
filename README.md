@@ -40,6 +40,7 @@ Questions regarding ML in drug discovery that keep me up at night.  Please submi
 - Can we use the submissions to the Expansion challenge to assess which compounds were consistently mispredicted? Could we have anticipated these failures?
 - Key references
     - https://doi.org/10.1021/acs.jcim.5c02381
+    - https://pubs.acs.org/doi/10.1021/acs.jcim.4c01755
 
 ### Structure prediction (co-folding) 
 - Can we anticipate when co-folding will work?
@@ -94,8 +95,6 @@ Questions regarding ML in drug discovery that keep me up at night.  Please submi
 ### Biology & Systems Complexity
 - Can we transition from predicting "binding to a protein" to predicting "cellular or organism-level effects"?
 - How do we model "polypharmacology" (multi-target effects) to predict both efficacy and off-target toxicity?
-- Key references
-    - https://doi.org/10.1038/s41587-023-01784-y (Foundation models for biology)
 
 ### Low-Data Regimes (SAR-lite)
 - How can we build useful models when we only have 5–10 data points at the start of a project?
