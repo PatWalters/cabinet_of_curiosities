@@ -25,7 +25,9 @@ Questions regarding ML in drug discovery that keep me up at night.  Please submi
 - What is the impact of dataset composition on foundation model performance?
 
 ### Model interpretability
-- How do we get to models that can provide guidance on what to make next? 
+- How do we get to models that can provide guidance on what to make next?
+- Key references
+  -https://doi.org/10.1002/wcms.70049
 
 ### Quantifying uncertainty 
 - Are ensembles the best way to quantify uncertainty?
