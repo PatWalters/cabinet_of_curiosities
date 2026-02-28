@@ -45,6 +45,8 @@ Questions regarding ML in drug discovery that keep me up at night.  Please submi
 - Can we anticipate when co-folding will work?
 - Can we get accurate poses from Boltz-2 or OF-3?
 - Can we get accurate affinities from co-folding methods?
+- Key references
+  - https://patwalters.github.io/Three-Papers-Demonstrating-That-Cofolding-Still-Has-a-Ways-to-Go/
 
 ### Data 
 - How do we handle truncated data (e.g “>40”)
