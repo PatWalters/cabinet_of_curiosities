@@ -43,4 +43,6 @@ Questions regarding ML in drug discovery that keep me up at night.  Please submi
 
 ### Multi-objective optimization
 - How can we simultaneously optimize compounds for multiple criteria
+- Key references
+    - https://www.sciencedirect.com/science/article/pii/S2666389923000016
 
