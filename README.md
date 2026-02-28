@@ -10,6 +10,7 @@ Questions regarding ML in drug discovery that keep me up at night.  Please submi
 - Is there a case in the literature where a 3D QSAR method has outperformed 2D?
 - Key references
   - https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c00385
+  - https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1698
 
 ### Defining a model’s applicability domain
 - Can we improve on the similarity to the training set when determining model applicability?
@@ -21,6 +22,8 @@ Questions regarding ML in drug discovery that keep me up at night.  Please submi
 ### Multi-task models 
 - How closely related to tasks do they have to be for multitasking to be effective?
 - Can multitasking make models worse?
+- Key references
+  - https://doi.org/10.1038/s42256-023-00785-4
 
 ### Foundation models and fine-tuning
 - What is the impact of dataset size on foundation model performance?
