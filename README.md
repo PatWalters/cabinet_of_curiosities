@@ -53,6 +53,8 @@ Questions regarding ML in drug discovery that keep me up at night.  Please submi
 - How do we handle truncated data (e.g “>40”)
 - Key references
     - https://doi.org/10.1016/j.ailsci.2025.100128
+    - https://doi.org/10.1128/aac.05777-11
+    - https://doi.org/10.1186/s13321-023-00769-x
 
 ### Multi-objective optimization
 - How can we simultaneously optimize compounds for multiple criteria
